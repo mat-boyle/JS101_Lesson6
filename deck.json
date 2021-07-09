@@ -1,0 +1,573 @@
+{
+  "1": {
+    "suit": "Hearts",
+    "card": "Ace",
+    "value": {
+      "high": 11,
+      "low":1
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "2": {
+    "suit": "Hearts",
+    "card": "Two",
+    "value": {
+      "high": 2,
+      "low":2
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "3": {
+    "suit": "Hearts",
+    "card": "Three",
+    "value": {
+      "high": 3,
+      "low": 3
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "4": {
+    "suit": "Hearts",
+    "card": "Four",
+    "value": {
+      "high": 4,
+      "low":4
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "5": {
+    "suit": "Hearts",
+    "card": "Five",
+    "value": {
+      "high": 5,
+      "low":5
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "6": {
+    "suit": "Hearts",
+    "card": "Six",
+    "value": {
+      "high": 6,
+      "low":6
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "7": {
+    "suit": "Hearts",
+    "card": "Seven",
+    "value": {
+      "high": 7,
+      "low":7
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "8": {
+    "suit": "Hearts",
+    "card": "Eight",
+    "value": {
+      "high": 8,
+      "low":8
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "9": {
+    "suit": "Hearts",
+    "card": "Nine",
+    "value": {
+      "high": 9,
+      "low":9
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "10": {
+    "suit": "Hearts",
+    "card": "Ten",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "11": {
+    "suit": "Hearts",
+    "card": "Jack",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "12": {
+    "suit": "Hearts",
+    "card": "Queen",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "13": {
+    "suit": "Hearts",
+    "card": "King",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "14": {
+    "suit": "Diamonds",
+    "card": "Ace",
+    "value": {
+      "high": 11,
+      "low":1
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "15": {
+    "suit": "Diamonds",
+    "card": "Two",
+    "value": {
+      "high": 2,
+      "low":2
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "16": {
+    "suit": "Diamonds",
+    "card": "Three",
+    "value": {
+      "high": 3,
+      "low": 3
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "17": {
+    "suit": "Diamonds",
+    "card": "Four",
+    "value": {
+      "high": 4,
+      "low":4
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "18": {
+    "suit": "Diamonds",
+    "card": "Five",
+    "value": {
+      "high": 5,
+      "low":5
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "19": {
+    "suit": "Diamonds",
+    "card": "Six",
+    "value": {
+      "high": 6,
+      "low":6
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "20": {
+    "suit": "Diamonds",
+    "card": "Seven",
+    "value": {
+      "high": 7,
+      "low":7
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "21": {
+    "suit": "Diamonds",
+    "card": "Eight",
+    "value": {
+      "high": 8,
+      "low":8
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "22": {
+    "suit": "Diamonds",
+    "card": "Nine",
+    "value": {
+      "high": 9,
+      "low":9
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "23": {
+    "suit": "Diamonds",
+    "card": "Ten",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "24": {
+    "suit": "Diamonds",
+    "card": "Jack",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "25": {
+    "suit": "Diamonds",
+    "card": "Queen",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "26": {
+    "suit": "Diamonds",
+    "card": "King",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "27": {
+    "suit": "Spades",
+    "card": "Ace",
+    "value": {
+      "high": 11,
+      "low":1
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "28": {
+    "suit": "Spades",
+    "card": "Two",
+    "value": {
+      "high": 2,
+      "low":2
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "29": {
+    "suit": "Spades",
+    "card": "Three",
+    "value": {
+      "high": 3,
+      "low": 3
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "30": {
+    "suit": "Spades",
+    "card": "Four",
+    "value": {
+      "high": 4,
+      "low":4
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "31": {
+    "suit": "Spades",
+    "card": "Five",
+    "value": {
+      "high": 5,
+      "low":5
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "32": {
+    "suit": "Spades",
+    "card": "Six",
+    "value": {
+      "high": 6,
+      "low":6
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "33": {
+    "suit": "Spades",
+    "card": "Seven",
+    "value": {
+      "high": 7,
+      "low":7
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "34": {
+    "suit": "Spades",
+    "card": "Eight",
+    "value": {
+      "high": 8,
+      "low":8
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "35": {
+    "suit": "Spades",
+    "card": "Nine",
+    "value": {
+      "high": 9,
+      "low":9
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "36": {
+    "suit": "Spades",
+    "card": "Ten",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "37": {
+    "suit": "Spades",
+    "card": "Jack",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "38": {
+    "suit": "Spades",
+    "card": "Queen",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "39": {
+    "suit": "Spades",
+    "card": "King",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "40": {
+    "suit": "Clubs",
+    "card": "Ace",
+    "value": {
+      "high": 11,
+      "low":1
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "41": {
+    "suit": "Clubs",
+    "card": "Two",
+    "value": {
+      "high": 2,
+      "low":2
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "42": {
+    "suit": "Clubs",
+    "card": "Three",
+    "value": {
+      "high": 3,
+      "low": 3
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "43": {
+    "suit": "Clubs",
+    "card": "Four",
+    "value": {
+      "high": 4,
+      "low":4
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "44": {
+    "suit": "Clubs",
+    "card": "Five",
+    "value": {
+      "high": 5,
+      "low":5
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "45": {
+    "suit": "Clubs",
+    "card": "Six",
+    "value": {
+      "high": 6,
+      "low":6
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "46": {
+    "suit": "Clubs",
+    "card": "Seven",
+    "value": {
+      "high": 7,
+      "low":7
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "47": {
+    "suit": "Clubs",
+    "card": "Eight",
+    "value": {
+      "high": 8,
+      "low":8
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "48": {
+    "suit": "Clubs",
+    "card": "Nine",
+    "value": {
+      "high": 9,
+      "low":9
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "49": {
+    "suit": "Clubs",
+    "card": "Ten",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "50": {
+    "suit": "Clubs",
+    "card": "Jack",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "51": {
+    "suit": "Clubs",
+    "card": "Queen",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  },
+
+  "52": {
+    "suit": "Clubs",
+    "card": "King",
+    "value": {
+      "high": 10,
+      "low":10
+    },
+    "dealt": "false",
+    "owner": "none"
+  }
+}

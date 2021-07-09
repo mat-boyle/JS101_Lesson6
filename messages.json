@@ -1,0 +1,17 @@
+{
+  "name": "What is your name? : ",
+  "seriesLength": "How many games would you like to play? : ",
+  "anotherCard": "Would you like another card? : ",
+  "hand": " has in their hand.",
+  "faceDown": "Dealer has a facedown card.",
+  "handValue": "The hand's value is : ",
+  "yesOrNo": "Please ansewer yes or no",
+  "busted": " busted!",
+  "tieGame": "The game is tied",
+  "winGame": "The player has wom the game",
+  "lostGame": "The player has lost the game",
+  "seriesScore": "The series score is: ",
+  "anotherGame": "Are you ready to play the next game?: ",
+  "anotherSeries": "Would you like to play another series?: ",
+  "validName": "Please enter a name other than dealer."
+}
